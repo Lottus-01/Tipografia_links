@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    padding: 25px;
+    margin: 0;
+    box-sizing: 0;
+}
+p{
+    background-color: antiquewhite;
+    padding: 20px;
+}
+h1{
+    background-color: burlywood;
+}
+
+.titulo{
+    font-family: cursive; 
+    font-size: 40px;
+    font-weight: 10000px ;
+    color: rgb(131, 73, 35);
+}
+
+.texto{
+  font-family: "Noto Sans", sans-serif;
+  font-weight: 500;
+}
+
+.cabeçario{
+    font-family: cursive;
+    
+}
